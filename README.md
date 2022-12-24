@@ -1,7 +1,8 @@
 # iPhone React calculator
 
 This app is a simple calculator using the iPhone UI as reference.
-<img width="818" alt="image" src="https://user-images.githubusercontent.com/16123699/209448446-fee3b5ce-1ec3-4e8d-b773-e88aa0844970.png">
+
+<img width="450" alt="image" src="https://user-images.githubusercontent.com/16123699/209448446-fee3b5ce-1ec3-4e8d-b773-e88aa0844970.png">
 
 ## Available Scripts
 

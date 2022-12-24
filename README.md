@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# iPhone React calculator
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This app is a simple calculator using the iPhone UI as reference.
+<img width="818" alt="image" src="https://user-images.githubusercontent.com/16123699/209448446-fee3b5ce-1ec3-4e8d-b773-e88aa0844970.png">
 
 ## Available Scripts
 
